@@ -1,0 +1,12 @@
+name: bcliquor
+title: bcliquor
+username:
+account: assiduousryan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 574921
+bundleId: 1703561
+url: https://assiduousryan.shinyapps.io/bcliquor/
+when: 1542330440.51492
+asMultiple: FALSE
+asStatic: FALSE
