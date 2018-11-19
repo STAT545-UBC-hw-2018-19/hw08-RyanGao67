@@ -10,4 +10,4 @@
 
 ## Features
 * Feature1:Add an option to sort the results table by price.
-![](./bcl/www/feature1)
+![](./bcl/www/feature1.jpg)
