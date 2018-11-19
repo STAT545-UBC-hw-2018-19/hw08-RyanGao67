@@ -1,2 +1,10 @@
 # This is the repo for homework8
-[My website](https://assiduousryan.shinyapps.io/bcliquor/)
+## Overview  
+* [My website](https://assiduousryan.shinyapps.io/bcliquor/)
+* This assignment is a shiny app called "BC liquor". Users can filter the liquor based on conditions like countries, types, prices. The application is tested using Chrome browser. The app is originally developped by Dean Attali, the data is from OpenDataBC. 
+
+## Navigation
+* [Source code](./bcl/)
+* [app.R](./bcl/app.R) Main logic
+* [www](./bcl/www/) storage for images and css
+
